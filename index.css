@@ -1,0 +1,132 @@
+img {
+overflow: wrap;
+width: 1350px;
+opacity: 0.7;
+fill-opacity: 0.87;
+object-fit: fill;
+
+height: 600px;
+color: rgba(0, 0, 0, 0.363);
+margin: 0;
+padding: 0;
+
+
+
+}
+.title {
+	text-align: center;
+	padding:20px 10px
+}
+h1 {
+font-family: 'Open Sans';
+font-weight: 300;
+font-stretch: 100%;
+src: url(https://fonts.gstatic.com/s/opensans/v34/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWtE6F15M.woff2)
+  format('woff2');
+unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F,
+  U+FE2E-FE2F;
+color: rgba(82, 169, 228, 0.932);
+margin: 20px 10px;
+
+
+}
+
+h2 {
+color: white;
+margin: 20px 10px;
+
+
+}
+h4 {
+color: white;
+padding: 0px;
+
+
+}
+.form {
+height: 100%;
+
+background-color: rgba(21, 27, 43, 0.79);
+
+width: 40%;
+margin: 14rem auto 0 auto;
+
+}
+.siginbtn {
+width: 19.6rem;
+height: 2.6rem;
+border: none;
+background-color: rgba(82, 169, 228, 0.932);
+
+}
+.control{
+	margin: 0 auto 0 auto;
+	width:80%;
+
+
+
+}
+.left {
+margin: 0 auto auto;
+width: 90%;
+color: grey;
+
+}
+.utgsigninbtn {
+background-color: rgba(248, 110, 105, 0.952);
+width: 19.6rem;
+height: 2.6rem;
+border: none;
+
+
+}
+.form-control {
+width: 19.6rem;
+height: 2.8rem;
+border: none;
+
+}
+
+.inputs{
+	margin: 0 auto 0 auto;
+	position:relative;
+	width:60%;
+	display: block;
+
+}
+
+.inputs button{
+	margin: 0 auto 0 auto;
+	width: 100%;
+	display: block;
+}
+.form-control{
+	display: block;
+	background-color: red;
+	margin: 0 auto 0 auto;
+	width: 100%;
+
+}
+
+.Register_button {
+background-color: rgba(21, 27, 43, 0.79);
+border-color: rgb(228, 192, 35);
+color: rgb(228, 192, 35);
+
+width: 50%;
+height: 2.6rem;
+font-size: 12px;
+font-weight: bold;
+
+
+}
+body {
+margin: 0;
+
+background: rgba(0, 0, 0, 0.75) url('img1.png');
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+background-blend-mode: darken;
+
+}
